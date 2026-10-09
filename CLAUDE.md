@@ -4,6 +4,8 @@ This file provides guidance to Claude Code when working with code in this reposi
 
 Read About/About.xml to get a description of the mod.
 
+Anomaly DLC lore reference (plain language, no technical data): `Docs/Lore/` — start with `00_Anomaly_Lore.md` (six groups: 01 Flesh, 02 Cult, 03 Death, 04 Darkness & the Unseen, 05 Dark Archotech, 06 Abominations). New or enhanced anomalies should stay consistent with it.
+
 DO NOT GUESS, ASK IF UNSURE
 
 ## Project Overview

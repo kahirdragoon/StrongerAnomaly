@@ -1,0 +1,18 @@
+most thign should be toggable via settings 
+
+- first occurence of an anomaly is the normal one, after that the strogner one appereas -> mod toggeable in settings
+
+stronger versions(setting if enabled at all):
+- flesh heart: spawns more fleshbeast, better turret structures, damage walls adjacent to flesh wall
+- darkness event: actually spawn noctul when pawns are hit in the darkness
+- flesh walls have a chance to spawn flesh beast on destruction
+
+new anomolies
+- flesh chimera: combination of all fleshbeast, with all their abilities, bigger, faster, stronger
+- invisible enemy: that can teleport (occsional black screenf flicker when in camera view, making it visible for a few seconds, flicker then invisible again, mod settings, might be too much horror)
+- flesh lord: more powerful human with all flesh implants and a buff
+
+stronger cult
+- incorperate Anomaly Cult Expasnsion
+- add implants from the "Integrated Implants" mod
+- a new horax raid where they try to find the flesh heart nucleus and plant it to create a new flesheart
